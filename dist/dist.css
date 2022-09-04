@@ -1,0 +1,121 @@
+:root {
+  --sn-stylekit-base-font-size: 14px;
+  --sn-stylekit-font-size-p: 1rem;
+  --sn-stylekit-font-size-editor: 1rem;
+  --sn-stylekit-font-size-h6: 0.8rem;
+  --sn-stylekit-font-size-h5: 0.9rem;
+  --sn-stylekit-font-size-h4: 1rem;
+  --sn-stylekit-font-size-h3: 1.1rem;
+  --sn-stylekit-font-size-h2: 0.8rem;
+  --sn-stylekit-font-size-h1: 1.3rem;
+  /*     Icons on neutral buttons */
+  --sn-stylekit-neutral-color: #e0a883;
+  /*     ? */
+  --sn-stylekit-neutral-contrast-color: white;
+  /*     Pins and buttons */
+  --sn-stylekit-info-color: #aee3aa;
+  /*     Button icons */
+  --sn-stylekit-info-contrast-color: var(--sn-stylekit-background-color);
+  /*     Message on bottom bar */
+  --sn-stylekit-success-color: #aee3aa;
+  --sn-stylekit-success-contrast-color: white;
+  /*     Archive */
+  --sn-stylekit-warning-color: #e2c387;
+  --sn-stylekit-warning-contrast-color: white;
+  /*     Move to trash */
+  --sn-stylekit-danger-color: #dc846a;
+  --sn-stylekit-danger-contrast-color: white;
+  /*     ? */
+  --sn-stylekit-shadow-color: #c8c8c8;
+  /* Background */
+  --sn-stylekit-background-color: rgb(30,30,30);
+  /*     Lines */
+  --sn-stylekit-border-color: #313131;
+  /*     Text main */
+  --sn-stylekit-foreground-color: #cdcdcd;
+  /*     Highlighted note and bottom bar */
+  --sn-stylekit-contrast-background-color: #262626;
+  /*     Note title etc */
+  --sn-stylekit-contrast-foreground-color: #cdcdcd;
+  /*     ? */
+  --sn-stylekit-contrast-border-color: #e3e3e3;
+  /*     Sidebar background */
+  --sn-stylekit-secondary-background-color: #232323;
+  /*     Sidebar text */
+  --sn-stylekit-secondary-foreground-color: #9c9c9c;
+  /*     E.g. buttons in search panel */
+  --sn-stylekit-secondary-border-color: #313131;
+  /*     ? */
+  --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
+  /*     ? */
+  --sn-stylekit-secondary-contrast-foreground-color: #2e2e2e;
+  /*     ? */
+  --sn-styleki--secondary-contrast-border-color: #a2a2a2;
+  --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
+  --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
+  /*     Text in settings menu etc */
+  --sn-stylekit-paragraph-text-color: #888888;
+  /*     ? */
+  --sn-stylekit-input-placeholder-color: rgb(168, 168, 168);
+  /*     ? */
+  --sn-stylekit-input-border-color: #e3e3e3;
+  /*     ? */
+  --sn-stylekit-scrollbar-thumb-color: #dfdfdf;
+  --sn-stylekit-scrollbar-track-border-color: #e7e7e7;
+  /*     ? */
+  --sn-stylekit-general-border-radius: 2px;
+  --sn-stylekit-monospace-font: 'Ubuntu Mono', courier, monospace;
+  --sn-stylekit-sans-serif-font: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  --sn-stylekit-grey-1: #72767e;
+  --sn-stylekit-grey-2: #bbbec4;
+  --sn-stylekit-grey-3: #dfe1e4;
+  --sn-stylekit-grey-4: #eeeff1;
+  --sn-stylekit-grey-4-opacity-variant: #bbbec43d;
+  --sn-stylekit-grey-5: #f4f5f7;
+  --sn-stylekit-grey-6: #e5e5e5;
+  /*     Note icons */
+  --sn-stylekit-accessory-tint-color-1: #575757;
+  /*     Editor menu icons */
+  --sn-stylekit-accessory-tint-color-2: #cdbf98;
+  --sn-stylekit-accessory-tint-color-3: #ccae5b;
+  --sn-stylekit-accessory-tint-color-4: #9d89cd;
+  --sn-stylekit-accessory-tint-color-5: #75b99f;
+  --sn-stylekit-accessory-tint-color-6: #d5a183;
+  /*     Search field border */
+  --sn-stylekit-passive-color-3: var(--sn-stylekit-border-color);
+  /*     Tag label background */
+  --sn-stylekit-passive-color-4-opacity-variant: #2c2c2c;
+  /*     Tag label icon */
+  --sn-stylekit-passive-color-1: var(--sn-stylekit-accessory-tint-color-1);
+  /*     Sidebar text colour */
+  /*     --navigation-item-text-color: #e0a883; */
+  /*     Sidebar background */
+  --navigation-column-background-color: var(--sn-stylekit-background-color);
+  /*     Sidebar selected state */
+  --navigation-item-selected-background-color: #333333;
+  --navigation-item-text-color: ;
+}
+
+/* Tag label text */
+.text-foreground {
+  /*     color: var(--sn-stylekit-accessory-tint-color-1); */
+}
+
+/* Panel menus and search bar background */
+.bg-default {
+  background-color: #292929;
+}
+
+/* Hover states in panel menus */
+.hover\:bg-contrast:hover {
+  background-color: #333333;
+}
+
+/* Search bar background override */
+#items-title-bar-container .bg-default {
+  background-color: var(--sn-stylekit-background-color);
+}
+
+/*# sourceMappingURL=dist.css.map */

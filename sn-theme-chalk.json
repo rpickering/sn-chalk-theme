@@ -3,7 +3,7 @@
     "name": "Chalk",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "url": "https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/dist/dist.css",
     "dock_icon": {
         "type": "circle",

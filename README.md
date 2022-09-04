@@ -1,6 +1,6 @@
 # Chalk theme for [Standard Notes](https://standardnotes.org)
 
-A dark theme that’s a bit easier on the eyes.
+A dark theme for Standard Notes
 
 ![Preview](https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/preview.png)
 

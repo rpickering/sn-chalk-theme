@@ -1,4 +1,4 @@
-# Chalk theme for [Standard Notes](https://standardnotes.org)
+# Chalk for [Standard Notes](https://standardnotes.org)
 
 A dark theme for Standard Notes
 

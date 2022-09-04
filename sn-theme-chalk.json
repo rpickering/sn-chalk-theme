@@ -1,8 +1,15 @@
 {
     "identifier": "io.github.rpickering.chalk",
     "name": "Chalk",
-    "content_type": "SN|Component",
+    "content_type": "SN|Theme",
     "area": "themes",
     "version": "0.1.0",
-    "url": "https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/dist/dist.css"
+    "url": "https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/dist/dist.css",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#222222",
+        "foreground_color": "#e0a883",
+        "border_color": "#313131"
+      },
+      "statusBar": "dark-content"
 }

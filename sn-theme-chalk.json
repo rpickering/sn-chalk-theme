@@ -1,15 +1,13 @@
 {
-    "identifier": "io.github.rpickering.chalk",
+    "identifier": "com.rorypickering.chalk",
     "name": "Chalk",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "0.1.1",
+    "version": "0.1.2",
+    "description": "",
     "url": "https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/dist/dist.css",
-    "dock_icon": {
-        "type": "circle",
-        "background_color": "#222222",
-        "foreground_color": "#e0a883",
-        "border_color": "#313131"
-      },
-      "statusBar": "dark-content"
-}
+    "download_url": "https://github.com/rpickering/sn-chalk-theme/archive/refs/heads/master.zip",
+    "latest_url": "https://listed.to/p/4rjFS4Mpug",
+    "marketing_url": "https://github.com/rpickering/sn-chalk-theme",
+    "thumbnail_url": "https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/master/preview.png"
+  }

@@ -2,7 +2,7 @@
 
 A dark theme that’s a bit easier on the eyes.
 
-![Preview](https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/master/preview.png)
+![Preview](https://raw.githubusercontent.com/rpickering/sn-chalk-theme/master/preview.png)
 
 <br>
 
